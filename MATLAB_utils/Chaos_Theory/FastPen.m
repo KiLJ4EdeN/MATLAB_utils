@@ -2,7 +2,7 @@
 %By Abdolkarim Saeedi.
 %All Rights Reserved.
 %This Function Computes The Aprroximate Entropy of A given Signal.
-%
+% where m is the embedding dimension and r is the minimum distance for the similarity measure.
 %
 %
 
