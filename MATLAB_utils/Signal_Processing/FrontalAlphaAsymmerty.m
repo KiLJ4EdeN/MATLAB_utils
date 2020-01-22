@@ -1,4 +1,4 @@
-function out=FrontalAlphaAsymmetry(data, channel1, channel2, fs)
+function out = FrontalAlphaAsymmetry(data, channel1, channel2, fs)
 
 # exctracting the channels
 
