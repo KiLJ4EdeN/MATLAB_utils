@@ -1,4 +1,6 @@
-function out = PowerSpectrum(data)
+% calculate different band powers in EEG.
+
+function out = Power_Spectrum(data)
 
 
  % Apply wavelet denoising (Optional)
