@@ -1,2 +1,2 @@
 # MATLAB_utils
-Useful functions for matlab.
+Useful functions for Signal Processing and Classification in MATLAB.
